@@ -54,7 +54,6 @@ Conditions d'application :
 Son rapport d'activité 2024 documente les observations formulées lors de ses contrôles et les recommandations adressées aux services.
  
 > Source : CNCTR, Rapport d'activité 2024, 2025.  
-> → https://cms.cnctr.fr/uploads/RAPPORT_CNCTR_2024_numerique_78e7fae737.pdf
  
 ---
  
@@ -90,7 +89,6 @@ Exigences dégagées par la Cour (Big Brother Watch) :
 **EN** - The Council of State Assembly ruled that the general and indiscriminate retention of connection data by access providers, required by French law, was in principle incompatible with EU law. It nevertheless admitted exceptions for national security needs, subject to prior review by an independent authority.
  
 > Source : CE, ass., 21 avr. 2021, French Data Network e.a., n° 393099.  
-> → https://conseil-etat.fr/fr/arianeweb/CRP/conclusion/2021-04-21/393099
  
 ---
  
@@ -100,12 +98,12 @@ Exigences dégagées par la Cour (Big Brother Watch) :
  
 | Élément | Acteur public mandaté | Acteur privé |
 |---|---|---|
-| Base légale formelle pour les faux profils | ✅ Art. 230-46 CPP | ❌ Absent |
-| Supervision judiciaire ou indépendante | ✅ Juge, CNCTR | ❌ Absent |
-| Traçabilité institutionnelle encadrée | ✅ Procédure pénale | ⚠️ Volontaire uniquement |
-| Exceptions biométrie AI Act | ✅ Art. 5 §2 à §5 | ❌ Absent |
-| Protection contre les poursuites pour recel | ✅ Cadre de l'enquête | ❌ Absent |
-| Accès données plateformes (DSA art. 40) | ⚠️ Partiel | ⚠️ Chercheurs agréés uniquement |
+| Base légale formelle pour les faux profils |  Art. 230-46 CPP |  Absent |
+| Supervision judiciaire ou indépendante |  Juge, CNCTR |  Absent |
+| Traçabilité institutionnelle encadrée |  Procédure pénale |  Volontaire uniquement |
+| Exceptions biométrie AI Act |  Art. 5 §2 à §5 |  Absent |
+| Protection contre les poursuites pour recel |  Cadre de l'enquête |  Absent |
+| Accès données plateformes (DSA art. 40) |  Partiel |  Chercheurs agréés uniquement |
  
 ---
  
