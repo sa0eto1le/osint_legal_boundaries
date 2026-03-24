@@ -35,7 +35,7 @@ This repo compiles concrete resources to navigate this grey area: legal fact she
 ##  Structure
 
 ```
-VisibleMaisInterdit/
+osint_legal_boundaries/
 │
 ├── README.md
 │
