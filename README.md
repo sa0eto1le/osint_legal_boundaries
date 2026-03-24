@@ -268,7 +268,6 @@ APRÈS ENQUÊTE / POST-INVESTIGATION
 ##  Auteur / Author
 
 **sa0**  
-
 Cybersécurité offensive · OSINT · Droit du numérique
 
 ---
