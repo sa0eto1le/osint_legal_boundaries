@@ -38,28 +38,29 @@ This repo compiles concrete resources to navigate this grey area: legal fact she
 osint_legal_boundaries/
 │
 ├── README.md
+├── LICENSE
 │
-├── legal-framework/           # Fiches juridiques / Legal fact sheets
-│   ├── rgpd-osint.md          # RGPD appliqué à l'OSINT
-│   ├── article-323-1.md       # Accès et maintien frauduleux (STAD)
-│   ├── ai-act-biometrie.md    # AI Act & reconnaissance faciale
-│   ├── recel-fuites.md        # Recel et analyse de fuites de données
-│   └── asymetrie-acteurs.md   # Acteur public vs acteur privé
-│
-├── tools-and-limits/          # Outils + cadre légal associé
-│   ├── dorking.md             # Google Dorking - exemples & limites
-│   ├── port-scanning.md       # Nmap, Shodan - technique & risques
-│   ├── idor.md                # Failles IDOR - détection & qualification
-│   └── scraping.md            # Web scraping - conformité RGPD
+├── case-studies/              # Analyses de cas / Case analyses
+│   ├── bluetouff.md           # Cass. crim. 20 mai 2015
+│   ├── clearview-ai.md        # CNIL / EDPB — 2022
+│   └── kaspr.md               # CNIL — déc. 2024
 │
 ├── checklists/                # Outils terrain / Field tools
 │   ├── osint-compliance.md    # Checklist OSINT avant enquête
 │   └── preuve-numerique.md    # Checklist recueil de preuve numérique
 │
-└── case-studies/              # Analyses de cas / Case analyses
-    ├── bluetouff.md           # Cass. crim. 20 mai 2015
-    ├── clearview-ai.md        # CNIL / EDPB - 2022
-    └── kaspr.md               # CNIL - déc. 2024
+├── legal-framework/           # Fiches juridiques / Legal fact sheets
+│   ├── ai-act-biometrie.md    # AI Act & reconnaissance faciale
+│   ├── article-323-1.md       # Accès et maintien frauduleux (STAD)
+│   ├── asymetrie-acteurs.md   # Acteur public vs acteur privé
+│   ├── recel-fuites.md        # Recel et analyse de fuites de données
+│   └── rgpd-osint.md          # RGPD appliqué à l'OSINT
+│
+└── tools-and-limits/          # Outils + cadre légal associé
+    ├── dorking.md             # Google Dorking — exemples & limites
+    ├── idor.md                # Failles IDOR — détection & qualification
+    ├── port-scanning.md       # Nmap, Shodan — technique & risques
+    └── scraping.md            # Web scraping — conformité RGPD
 ```
 
 ---
@@ -211,11 +212,11 @@ APRÈS ENQUÊTE / POST-INVESTIGATION
 
 | Pratique | Acteur public mandaté | Acteur privé |
 |---|---|---|
-| Faux profil / sockpuppet | ✅ Art. 230-46 CPP | ⚠️ Art. 226-4-1 / 323-1 C. pén. |
-| Scraping de données semi-publiques | ✅ Cadre réglementaire spécifique | ⚠️ RGPD + CGU + responsabilité civile |
-| Reconnaissance faciale biométrique | ✅ Exceptions AI Act (art. 5 §2-5) | ❌ Interdit pour acteurs privés non habilités |
-| Analyse de fuites de données | ✅ Dans le cadre de l'enquête | ⚠️ Risque de recel (art. 321-1 C. pén.) |
-| Port scanning actif | ✅ Avec mandat / qualification PASSI | ⚠️ Zone grise - art. 323-1 potentiel |
+| Faux profil / sockpuppet |  Art. 230-46 CPP |  Art. 226-4-1 / 323-1 C. pén. |
+| Scraping de données semi-publiques |  Cadre réglementaire spécifique |  RGPD + CGU + responsabilité civile |
+| Reconnaissance faciale biométrique |  Exceptions AI Act (art. 5 §2-5) |  Interdit pour acteurs privés non habilités |
+| Analyse de fuites de données |  Dans le cadre de l'enquête |  Risque de recel (art. 321-1 C. pén.) |
+| Port scanning actif |  Avec mandat / qualification PASSI |  Zone grise - art. 323-1 potentiel |
 
 ---
 
@@ -267,6 +268,7 @@ APRÈS ENQUÊTE / POST-INVESTIGATION
 ##  Auteur / Author
 
 **sa0**  
+
 Cybersécurité offensive · OSINT · Droit du numérique
 
 ---
