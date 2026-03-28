@@ -278,7 +278,7 @@ DANS UN CONTEXTE DE PENTEST AUTORISÉ
  
 ---
  
-## 📖 Références / References
+## Références / References
  
 - OWASP Foundation, *Insecure Direct Object Reference Prevention Cheat Sheet*
 - OWASP Top 10, *A01:2021 - Broken Access Control*
